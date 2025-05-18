@@ -3,6 +3,9 @@
 Backend de inventario construido con Flask y GraphQL.  
 Permite consultar, agregar, eliminar y actualizar una lista de productos en memoria.
 
+
+[Respuestas a preguntas](respuestas.md)
+
 ---
 
 ## Requisitos
